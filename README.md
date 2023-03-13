@@ -1,5 +1,5 @@
 # MCMCFlux
-### This repository is served as the source code for Bayesian kinetic modeling for tracer-based metabolomic data.
+### This repository serves as the source code for Bayesian kinetic modeling for tracer-based metabolomic data.
 ### myMCMC.cpp is the main function.
 ### genDRAM_GibbsWithMH.cpp is for the MCMC sampling.
 ### PurineSynthesis.cpp provides all the ODE equations.
